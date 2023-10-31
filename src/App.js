@@ -15,8 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
         </a>
+        <p>
+            Welcome to K3s Kubernetes Cluster on AWS EC2
+          </p>
       </header>
     </div>
   );
